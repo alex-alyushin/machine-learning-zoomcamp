@@ -157,6 +157,10 @@ ENV/
 env.bak/
 venv.bak/
 
+.venv311/
+
+zoomcamp-ml-repo/
+
 # Spyder project settings
 .spyderproject
 .spyproject
